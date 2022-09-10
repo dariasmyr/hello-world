@@ -13,4 +13,5 @@ def print_random_drink(alco_drinks_arr, non_alco_drinks_arr):
 
 
 print_random_drink(alco_drinks, non_alco_drinks)
+print("bla bla bla")
 
